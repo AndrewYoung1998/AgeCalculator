@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_date_of_birth">Enter Date of Birth</string>
+    <string name="calculate">Calculate</string>
+</resources>
